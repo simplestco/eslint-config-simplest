@@ -19,7 +19,7 @@
     "url": "https://github.com/simplestco/eslint-config-simplest/issues"
   },
   "homepage": "https://github.com/simplestco/eslint-config-simplest#readme",
-  "peerDependencies": {
+  "dependencies": {
     "eslint": "^5.16.0",
     "eslint-plugin-prettier": "^3.0.1",
     "prettier": "^1.16.4",
