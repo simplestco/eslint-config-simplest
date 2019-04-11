@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-simplest",
-  "version": "0.0.3",
+  "version": "0.1.0",
   "description": "Eslint rules to be simple",
   "main": "index.js",
   "scripts": {
