@@ -4,6 +4,7 @@
 
 - All in one lint, you need to install no more than this package
 - AirB&B and eslint:recomended rules
+- Mocha and chai friendly
 
 ## Set up
 
